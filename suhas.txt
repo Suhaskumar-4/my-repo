@@ -1,1 +1,2 @@
-this is a text
+this is a text file for demo of github
+go to next line
